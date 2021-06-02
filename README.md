@@ -1,4 +1,5 @@
 # Zabbix-templates-for-Active-Directory
+# DEPRECATED, look this repo https://github.com/bakhterets/zabbix-ad
 This repository contains zabbix templates for Active Directory(AD) and PowerShell(PS) script for AD replication monitoring
 # Requirements
 PowerShell 3.00+ version
